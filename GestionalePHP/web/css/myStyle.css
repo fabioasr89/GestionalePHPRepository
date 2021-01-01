@@ -1,0 +1,13 @@
+.bg-light {
+	background-color:#3f51b5;
+	color:white;
+}
+
+.content{
+	margin-top:10vh;
+}
+
+.content>form{
+	padding:5%;
+	background-color:azure;
+}
